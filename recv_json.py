@@ -9,7 +9,7 @@ import struct
 
 serverSocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
-host = '188.143.202.200'
+host = '10.10.202.200'
 port = 8088
 
 buffer_size = 4096
