@@ -4,7 +4,6 @@
 
 import socket
 import json
-import simplejson
 import struct
 
 serverSocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
